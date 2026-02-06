@@ -1,0 +1,16 @@
+# Lens Studio
+Backup/
+Cache/
+
+# JavaScript / Node
+node_modules/
+yarn.lock
+package-lock.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Plugin secrets
+.github-konnect.env
